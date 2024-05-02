@@ -2,9 +2,6 @@
 
 
 
-<!--
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Flutter
@@ -14,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 My Linkdin : https://www.linkedin.com/in/arafat-islam1/
 - ⚡ Fun fact: I am comming to teen
 
--->
+
